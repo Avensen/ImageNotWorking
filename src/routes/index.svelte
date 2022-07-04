@@ -1,3 +1,3 @@
-<h1>Spooky loads properly</h1>
+<h1>Image loads properly</h1>
 <img src="_spooky.png" alt="">
-<a href="/foo">to src/routes/foo</a>
+<a href="/foo">to /foo</a>
